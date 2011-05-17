@@ -1,14 +1,11 @@
 /**
- *  author:		Timothy Groves - http://www.brandspankingnew.net
- *  modified by: Maycon Bordin
+ * Ajax Auto Suggest
+ * A pure javascript script for autocompletion with cache.
+ * <http://code.google.com/p/ajax-auto-suggest/>
  *
- *	version:	1.2 - 2006-11-17
- *              1.3 - 2006-12-04
- *              2.0 - 2007-02-07
- *              2.1.1 - 2007-04-13
- *              2.1.2 - 2007-07-07
- *              2.1.3 - 2007-07-19
- *				2.1.4 - 2011-05-17
+ * @author Timothy Groves <http://www.brandspankingnew.net>
+ * @modifiedBy Maycon Bordin
+ * @version 2.1.4 (2011-05-17)
  * 
  */
 if (typeof(bsn) == "undefined")
